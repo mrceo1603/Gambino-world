@@ -1,0 +1,32 @@
+*{
+    margin:7px;
+    padding: -1px;
+    
+}
+body{
+    Background-color:lightblue;
+}
+h1{
+    font-family: sans-serif
+    color rgb(223, 169, 138);
+    margin-bottom: 15px;
+    text-decoration: underline;
+   
+}
+p{
+    font-family: Arial, Helvetica, sans-serif
+}
+h3{
+    text-decoration: underline;
+    text-decoration-color: black
+}
+.header {
+    background-color: #F1F1F1;
+    text-align: center;
+    padding: 60px;
+  }
+h2{
+    text-decoration-style: dotted;
+    text-decoration: wavy;
+    text-decoration: underline
+}
